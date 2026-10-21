@@ -1,8 +1,13 @@
 import React, { useState } from 'react'
 
 function TodoList(){
-    const [tasks]
-    return(<></>)
+    const [tasks, setTasks] = useState([])
+
+    return(
+    <>
+    
+    </>
+    )
 }
 
 export default TodoList
